@@ -4,6 +4,11 @@
     "main": "index.js",
     "license": "MIT",
     "private": false,
+    "author": "@jamiejohnsonkc",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jamiejohnsonkc/gatsby-theme-slick-slider.git"
+    },
     "peerDependencies": {
         "gatsby": "^2.24.47",
         "react": "^16.13.1",
